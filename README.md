@@ -1,48 +1,40 @@
-# Project Name
-> Outline a brief description of your project.
+# House Price Prediction using Advanced Regression
+> We have housing dataset which contains all the paramters affecting the housing price. This project has built to identify the important predictor variables which highly influences the housing prices.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose housing project has built using advanced regression.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- We have built the model using linear regression and ended up with overfitting.
+- So we have built the model using Ridge and Lasso Regression.
+- Lasso Regression provides the best results compared to Ridge Regression. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.11.2
+- numpy 1.24.2
+- pandas 2.1.3
+- matplotlib 3.7.1
+- seaborn 0.13.0
+- statsmodels 0.11.0
+- scikit-learn 0.22.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@dprakashraj] - feel free to contact me!
 
 
 <!-- Optional -->
